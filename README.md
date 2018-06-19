@@ -15,7 +15,7 @@ EIP中文计划，把现有的EIP翻译成中文，在中文社区中推广以�
 ## Workflow
 
 - fork repo to your repo
-- go to [Issues](./issues) page
+- go to [Issues](https://github.com/HiBlock/EIP-CN/issues) page
 - check and choose which EIP you would translate
 - create a new issue for your translation with tag `translating`
 - copy EIP original file from `EIPS` to `EIPS-CN` directory
