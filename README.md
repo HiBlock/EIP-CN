@@ -12,6 +12,18 @@ EIP中文计划，把现有的EIP翻译成中文，在中文社区中推广以�
 
 以太坊改进建议 (EIPs) 描述了以太坊的标准，包含核心协议规范、客户端APIs、以及合约标准。
 
+## Workflow
+
+- fork repo to your repo
+- go to [Issues](./issues) page
+- check and choose which EIP you would translate
+- create a new issue for your translation with tag `translating`
+- copy EIP original file from `EIPS` to `EIPS-CN` directory
+- **your work, translating**
+- `git push` to your repo
+- create a pull request to this repo
+- set issue tag with `done` after review
+
 ## 有关HiBlock区块链社区
 
 - [HiBlock github首页](https://github.com/HiBlock) 
